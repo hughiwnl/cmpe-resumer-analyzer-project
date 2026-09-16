@@ -1,0 +1,20 @@
+Software Engineer - Backend Team
+
+We are looking for a Software Engineer to join our backend platform team.
+
+Responsibilities:
+- Design and build scalable backend services using Python and Java
+- Work with SQL and NoSQL databases (PostgreSQL, MongoDB)
+- Deploy and manage services on AWS using Docker and Kubernetes
+- Collaborate with cross-functional teams in an Agile/Scrum environment
+- Use Git for version control and participate in code review
+
+Requirements:
+- 2+ years of experience with Python
+- Familiarity with REST API design
+- Experience with CI/CD pipelines
+- Strong Data Analysis and problem-solving skills
+- Bonus: exposure to Machine Learning or Data Science
+
+We value strong communication and project management skills, and experience
+working in Agile teams using Scrum.

@@ -1,0 +1,21 @@
+Jordan Lee
+jordan.lee@email.com | (555) 123-4567 | San Jose, CA
+
+EDUCATION
+B.S. in Computer Engineering, San Jose State University, 2026
+
+EXPERIENCE
+Software Engineering Intern, Acme Corp (Summer 2025)
+- Built backend services in Python and deployed them on AWS using Docker
+- Wrote SQL queries against a PostgreSQL database to support reporting features
+- Participated in an Agile team using Scrum, including sprint planning and daily standups
+- Used Git for version control and collaborated via pull requests
+
+PROJECTS
+Personal Finance Tracker
+- Developed a REST API using Python and Flask
+- Used Git for source control and CI/CD via GitHub Actions
+- Applied basic Data Analysis techniques to summarize spending trends
+
+SKILLS
+Python, Java, SQL, AWS, Docker, Git, Agile, Scrum, Data Analysis, Project Management
